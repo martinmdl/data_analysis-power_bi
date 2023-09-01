@@ -1,4 +1,4 @@
-# Power BI - Sales Insights Data Analysis Project (company: AtliQ Hardware)
+## Power BI - Sales Insights Data Analysis Project (company: AtliQ Hardware)
 
 ## Aims grid
 
@@ -23,7 +23,7 @@
 ## AtliQ Data Processing
 - Pull data from the OnLine Transaction Processing (OLTP) (e.g. MySQL)
 - Extract, Transform, Load (ETL)
-- Store data in the Data Warehouse
+- Store data in the Data Warehouse (Terra Data, Snowflake)
 
 
 
