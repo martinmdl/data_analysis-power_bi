@@ -21,7 +21,7 @@
 - Data driven decision making
 
 
-<div style=“text-align: center;”> AtliQ Data Processing</div>
+<div align='center'> AtliQ Data Processing</div>
 
 ## AtliQ Data Processing
 - Pull data from the OnLine Transaction Processing (OLTP) (e.g. MySQL)
