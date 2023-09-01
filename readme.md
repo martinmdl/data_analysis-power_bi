@@ -22,6 +22,7 @@
 
 
 <h2 align='center'>Data Processing</h2>
+
 - Pull data from the OnLine Transaction Processing (OLTP) (e.g. MySQL)
 - Extract, Transform, Load (ETL)
 - Store data in the Data Warehouse (Terra Data, Snowflake)
