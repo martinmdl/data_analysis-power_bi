@@ -1,6 +1,6 @@
-## Power BI - Sales Insights Data Analysis Project (company: AtliQ Hardware)
+# Power BI - Sales Insights Data Analysis Project (company: AtliQ Hardware)
 
-### Aims grid
+## Aims grid
 
 #### Purpose
 - Give new insights and decision support
@@ -20,7 +20,7 @@
 - Automated sales dashboard
 - Data driven decision making
 
-### AtliQ Data Processing
+## AtliQ Data Processing
 - Pull data from the OnLine Transaction Processing (OLTP) (e.g. MySQL)
 - Extract, Transform, Load (ETL)
 - Store data in the Data Warehouse
