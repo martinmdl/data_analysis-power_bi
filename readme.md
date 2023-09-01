@@ -20,6 +20,9 @@
 - Automated sales dashboard
 - Data driven decision making
 
+
+<div style=“text-align: center;”> AtliQ Data Processing</div>
+
 ## AtliQ Data Processing
 - Pull data from the OnLine Transaction Processing (OLTP) (e.g. MySQL)
 - Extract, Transform, Load (ETL)
