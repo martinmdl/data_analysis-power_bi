@@ -25,10 +25,10 @@
 
 - Pull data from the OnLine Transaction Processing (OLTP) (e.g. MySQL)
 - Extract, Transform, Load (ETL)
-- Store data in the Data Warehouse (Terra Data, Snowflake)
+- Store data in the Data Warehouse (e.g. Terra Data, Snowflake)
 
 
-
+<h2 align='center'>Data cleaning/wrangling/munging</h2>
 
 
 
