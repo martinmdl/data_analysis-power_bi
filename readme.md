@@ -1,4 +1,4 @@
-<h1 align='center'>Power BI - AtliQ Hardware Sales Insights</h1>
+<h1 align='center'>Bengaluru Home Prices</h1>
 
 <h2 align='center'>Aims grid</h2>
 
